@@ -189,14 +189,15 @@ button:hover {
 .service {
 	background: #101010;
 	width: 100%;
-	padding: 100px 0px;
+	padding: 50px 0px;
 }
 
 .title h2 {
 	color: white;
 	font-size: 75px;
 	width: 1130px;
-	margin: 30px auto;
+	margin: 20px auto;
+	margin-top: 1%;
 	text-align: center;
 }
 
